@@ -1,0 +1,4 @@
+1) open cmd in the explorer(you just go to the line where stand something like c:\users... and time cmd)
+2) type: pip install -r requirements.txt (you need python 3.7)
+3) open the python projekt
+4) have fun
